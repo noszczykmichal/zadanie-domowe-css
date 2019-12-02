@@ -1,3 +1,9 @@
+.container{
+    height:auto;
+    width:auto;
+}
+
+
 .square{
     height: 200px;
     width: 200px;
@@ -40,3 +46,14 @@
     background-color: purple;
 }
 
+.orange{
+    background-color: orange;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.black{
+    background-color: black;
+}
